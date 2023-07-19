@@ -1,4 +1,5 @@
-description: null
+description: ' RJ-45 socket with impedation matching useful for connecting ethernet
+  compatible controllers to ethernet standard network.'
 github_branch: ETH02A
 github_repo: ETH02
 github_url: https://github.com/mlab-modules/ETH02
